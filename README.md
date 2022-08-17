@@ -1,2 +1,4 @@
-# blog
-Mattison's blog
+## Mattison's blog
+
+### Hi, there :)
+
