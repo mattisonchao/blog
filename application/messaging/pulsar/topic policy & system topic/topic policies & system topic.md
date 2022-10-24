@@ -19,7 +19,7 @@ Compactor and system topics.
 
 ![Topic compaction](./topic%20compaction.png)
 
-Apache pulsar supports the compression of themes by specific keys.
+Apache pulsar supports the compression of topics by specific keys.
 This process you can understand from the diagram above.
 
 > In this article, I will not cover the details of message compression.
