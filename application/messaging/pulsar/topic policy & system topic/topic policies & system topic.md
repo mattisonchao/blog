@@ -1,4 +1,4 @@
-# Topic policy & System topic
+# Topic policies & System topic
 
 - Date: Mon Oct 24 2022
 - Category: Apache Pulsar
@@ -43,7 +43,7 @@ pulsar uses a `Reader` that supports compaction and a `Writer` that needs to car
 At this point, I think we have a good understanding of how pulsar relies on system topic to implement a simple storage system similar to K-V.
 Let's move on to how we rely on this feature to implement a topic policy.
 
-### Topic policy
+### Topic policies
 
 ![Topic Policy](./Topic%20policy.png)
 
