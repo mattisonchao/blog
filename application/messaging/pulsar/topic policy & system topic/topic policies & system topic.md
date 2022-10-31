@@ -5,7 +5,7 @@
 
 ## Preface 
 
-This article attempts to explain the implementation of the Apache Pulsar theme policy function.
+This article attempts to explain the implementation of the Apache Pulsar topic policy function.
 As the official documentation for Apache Pulsar is good enough. I will not describe it and how to use it.
 
 If you are interested in learning more about it, please follow this [link](https://pulsar.apache.org/docs/).
