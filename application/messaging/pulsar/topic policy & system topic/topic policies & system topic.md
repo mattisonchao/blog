@@ -1,7 +1,7 @@
 # Topic policies & System topic
 
 - Date: Mon Oct 24 2022
-- Category: Apache Pulsar
+- Category: Application - Messaging - Apache Pulsar
 
 ## Preface 
 
