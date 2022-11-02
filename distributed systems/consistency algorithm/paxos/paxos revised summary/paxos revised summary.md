@@ -1,7 +1,7 @@
 # Paxos revised summary
 
 - Date: Sun Oct 23 2022
-- Category: Distributed systems
+- Category: Distributed systems - Consistency Algorithm - Paxos
 
 ## Preface
 
