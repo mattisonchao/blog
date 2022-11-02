@@ -4,7 +4,7 @@ Hello everyone, this is Mattison's blog. Feel free to read it and make suggestio
 
 **How to ask question?**
 
-You will find the PR link to the article to which it was submitted in the article and can annotate it in the appropriate place.
+You will find links to the original PRs in the article and can comment on them where appropriate.
 
 Best,
 
