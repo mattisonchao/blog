@@ -2,6 +2,7 @@
 
 - Date: Mon Oct 24 2022
 - Category: Application - Messaging - Apache Pulsar
+- PR link: https://github.com/mattisonchao/blog/pull/1
 
 ## Preface 
 
